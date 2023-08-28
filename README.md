@@ -1,6 +1,11 @@
 # React TODO App
 Simple To Do app with multiple components in React.
 
+# Demo
+![Recording 2023-08-28 212913](https://github.com/agrawalrohant/ReactToDoApp/assets/57856344/2f48400c-1e74-4092-a8b5-d36113c0a02b)
+
+
+
 # Uses
 - Props
 - Lifting state up
