@@ -1,9 +1,14 @@
 # React TODO App
-Simple To Do app with multiple components.
+Simple To Do app with multiple components in React.
 
 # Uses
 - Props
 - Lifting state up
+
+# Running App
+- npm install
+- npm run dev
+- app will be launched on http://localhost:5173/
 
 # App created using Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
