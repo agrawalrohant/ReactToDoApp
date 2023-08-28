@@ -1,0 +1,19 @@
+input {
+  height: 50px;
+  font-size: 50px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid #123d32;
+  color: #254e58;
+}
+
+button {
+  height: 72px;
+  font-size: 45px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid #123d32;
+  color: #4f4a41;
+  background-color: #c6c1b9;
+  margin: 0 10px;
+}

@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: apercu, sans-serif;
+  display: flex;
+  justify-content: center;
+  background-color: #88bdbc;
+  color: #ffffff;
+}
+
+#root {
+}
